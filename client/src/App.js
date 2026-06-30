@@ -432,7 +432,7 @@ export default function App() {
   const myIndex    = myQueue.findIndex(q => q.email === email);
   const myPosition = myIndex + 1;
 
-  const avatarColors = ["#2dd4bf","#6366f1","#f59e0b","#10b981","#f43f5e","#8b5cf6"];
+  //const avatarColors = ["#2dd4bf","#6366f1","#f59e0b","#10b981","#f43f5e","#8b5cf6"];
 
   return (
     <>
